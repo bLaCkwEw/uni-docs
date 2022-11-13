@@ -1,0 +1,7 @@
+Pe partitia Z: creati doua foldere (dosare) cu numele Grupa1 si Grupa2. In dosarul Grupa1 creati alte trei foldere cu numele: Uranus, Jupiter, Marte. In unul dintre acestea copiati de pe unitatile de discuri instalate patru fisiere la alegere. Ordonati-le dupa marime. Cautati pe hard-disc fisierul (/ele) Word cu numele Proiect.
+
+
+Creati un dosar cu denumirea NetVista pe partitia Z:. In dosarul NetVista creati doua dosare cu numele IBM si SUN. In dosarul IBM copiati din sistem doua fisiere Word (la alegere). Mutati apoi acest dosar pe D: iar in dosarul SUN copiati din sistem o prezentare PowerPoint.
+
+
+Pe partiţia Z: creaţi un dosar nou cu numele dv. şi copiaţi 10 fişiere, la alegere, din sistem. Aranjaţi aceste fişiere după numele lor şi vizualizaţi-le în modul "detaliat" Copiați, într-un alt folder, cele mai mari 3 fișiere.
